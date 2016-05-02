@@ -33,12 +33,17 @@ body {
 }
 
 #postImages img {
-	width: auto;
-	height: auto;
+	padding-left: 50px;
+	width: 70%;
+	height: 70%;
 }
 
 #preImages {
 	float: right;
+}
+
+#preImages {
+	padding-right: 50px;
 }
 
 #postInfo {

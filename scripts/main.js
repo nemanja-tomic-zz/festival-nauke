@@ -96,7 +96,7 @@
 	],
     correctAnswer: 2,
 	preImages: ["assets/img/10-lab.png"],
-	postImages: ["assets/img/10-pipeta.png", "assets/img/10-fax.png"],
+	postImages: ["assets/img/10-fax.png"],
 	postInfo: ""
   }];
   
