@@ -29,19 +29,24 @@ body {
 }
 
 #postImages {
-	float: left;
+    float: left;
+    position: absolute;
+    left: 40px;
 }
 
 #postImages img {
 	padding-left: 50px;
 	width: 70%;
-	height: 70%;
 }
 
 #preImages {
-	float: right;
+    float: right;
+    position: absolute;
+    right: 40px;
 }
-
+#preImages img {
+    width: 100%;
+}
 #preImages {
 	padding-right: 50px;
 }
